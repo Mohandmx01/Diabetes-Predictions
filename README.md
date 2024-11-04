@@ -1,4 +1,7 @@
-# Project Details
+## Diabetes Prediction Project
+#Overview
+This project involves developing a machine learning model to predict diabetes based on various health metrics. Using a dataset of health parameters, we aim to create an accurate model that can help identify individuals who may be at risk of diabetes.
+Project Details
 Data Preprocessing
 Details about any data cleaning, normalization, or transformation steps applied to prepare the dataset for model training.
 
